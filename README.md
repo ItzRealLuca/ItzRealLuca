@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItzRealLuca
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me? Discord: × ItzNyxoy#6666
+- 📫 How to reach me? Discord: Nyxoy#0001
 
 <!---
 ItzRealLuca/ItzRealLuca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
